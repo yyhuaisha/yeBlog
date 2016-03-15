@@ -1,2 +1,2 @@
 # yeblog
-my blog.  address: http://yyhuaisha.github.io/yeblog/
+My blog access address: http://yyhuaisha.github.io/yeblog/
